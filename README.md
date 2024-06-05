@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Lab uses Java design patterns to let the user buy or sell items by creating posts and allowing the user to communicate with others.
+Lab uses Java design patterns to let the users buy or sell items by creating posts and allowing the users to communicate with others.
 <br />
 
 
