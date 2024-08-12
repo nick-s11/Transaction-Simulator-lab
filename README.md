@@ -26,7 +26,7 @@ Declaring all variables in the Main: <br/>
 <br />
 <p align="center">
 Joining the user to the desired group: <br/>
-<img src="[https://imgur.com/MDZfTPN.png" height="80%" width="80%" alt=](https://imgur.com/a/CYi3Bld)""/>
+<img src="[https://imgur.com/MDZfTPN.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 <p align="center">
