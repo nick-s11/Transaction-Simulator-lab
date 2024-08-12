@@ -21,44 +21,44 @@ Lab uses Java design patterns to let the users buy or sell items by creating pos
 
 <p align="center">
 Declaring all variables in the Main: <br/>
- ![screenshot](first.png)
+ 
 <img src="https://i.postimg.cc/ydP7qM1f/first.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 <p align="center">
 Joining the user to the desired group: <br/>
-  https://github.com/user-attachments/assets/760c994d-6a04-4e6d-8053-0ac0c64ecb60
+  <img src="https://i.postimg.cc/NjfJbZSs/desired-group.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 <p align="center">
 Printing the post from the selected group: <br/>
 
-<img src="https://imgur.com/Mkx0Lz6.png" height="80%" width="80%" alt=""/>
+<img src="https://i.postimg.cc/8PVPFm3B/third.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 <p align="center">
 Asking the user if they wanted to message the seller: <br/>
-<img src="https://imgur.com/XbaNoZB.png" height="80%" width="80%" alt=""/>
+<img src="https://i.postimg.cc/qvJKKTYL/4.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 <p align="center">
 Asking the user if they wanted to create a post: <br/>
-<img src="https://imgur.com/SrDv8GN.png" height="80%" width="80%" alt=""/>
+<img src="https://i.postimg.cc/5NLczcv6/5.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 <p align="center">
 Implementing the composite design pattern: <br/>
-<img src="https://imgur.com/exGxQRH.png" height="80%" width="80%" alt=""/>
+<img src="https://i.postimg.cc/4xc3nF45/c.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 <p align="center">
 Implementing the Mediator design pattern: <br/>
-<img src="https://imgur.com/o5QCBmY.png" height="80%" width="80%" alt=""/>
+<img src="https://i.postimg.cc/tTNkb5VR/6.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 <p align="center">
-Creating premade posts to look at: <br/>
-<img src="https://imgur.com/OK6sYIl.png" height="80%" width="80%" alt=""/>
+Creating user class: <br/>
+<img src="https://i.postimg.cc/mD1cN2Bv/7.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 <p align="center">
