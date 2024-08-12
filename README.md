@@ -28,7 +28,7 @@ Declaring all variables in the Main: <br/>
 Joining the user to the desired group: <br/>
   ![screenshot](![desired group](https://github.com/user-attachments/assets/760c994d-6a04-4e6d-8053-0ac0c64ecb60)
 )
-<img src="https://imgur.com/MDZfTPN.png" height="80%" width="80%" alt=""/>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/CYi3Bld" data-context="false" ><a href="//imgur.com/a/CYi3Bld"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>""/>
 <br />
 <br />
 <p align="center">
