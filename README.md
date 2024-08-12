@@ -33,6 +33,8 @@ Joining the user to the desired group: <br/>
 <br />
 <p align="center">
 Printing the post from the selected group: <br/>
+  ![desired group](https://github.com/user-attachments/assets/d243db14-9493-496e-ad29-f22c1625238f)
+
 <img src="https://imgur.com/Mkx0Lz6.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
