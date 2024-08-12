@@ -26,6 +26,8 @@ Declaring all variables in the Main: <br/>
 <br />
 <p align="center">
 Joining the user to the desired group: <br/>
+  ![screenshot](![desired group](https://github.com/user-attachments/assets/760c994d-6a04-4e6d-8053-0ac0c64ecb60)
+)
 <img src="https://imgur.com/MDZfTPN.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
