@@ -21,7 +21,7 @@ Lab uses Java design patterns to let the users buy or sell items by creating pos
 
 <p align="center">
 Declaring all variables in the Main: <br/>
-  First.png
+ ![screenshot](first.png)
 <img src="https://imgur.com/IN8Ws0p.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
